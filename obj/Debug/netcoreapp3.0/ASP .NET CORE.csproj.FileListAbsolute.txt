@@ -1,0 +1,35 @@
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/appsettings.json
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/ASP .NET CORE
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/ASP .NET CORE.deps.json
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/ASP .NET CORE.runtimeconfig.json
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/ASP .NET CORE.runtimeconfig.dev.json
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/ASP .NET CORE.dll
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/ASP .NET CORE.pdb
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/ASP .NET CORE.Views.dll
+/home/mateo/Documentos/Platzi/ASP .NET CORE/bin/Debug/netcoreapp3.0/ASP .NET CORE.Views.pdb
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.csprojAssemblyReference.cache
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/staticwebassets/ASP .NET CORE.StaticWebAssets.Manifest.cache
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/staticwebassets/ASP .NET CORE.StaticWebAssets.xml
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.MvcApplicationPartsAssemblyInfo.cache
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.RazorAssemblyInfo.cache
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.RazorAssemblyInfo.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.AssemblyInfoInputs.cache
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.AssemblyInfo.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.TagHelpers.input.cache
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.TagHelpers.output.cache
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.RazorCoreGenerate.cache
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.RazorTargetAssemblyInfo.cache
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.RazorTargetAssemblyInfo.cs
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.Views.pdb
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.dll
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.pdb
+/home/mateo/Documentos/Platzi/ASP .NET CORE/obj/Debug/netcoreapp3.0/ASP .NET CORE.csproj.CopyComplete
